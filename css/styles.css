@@ -355,6 +355,26 @@ footer a {
     margin-left: 5px;
     margin-right: 5px;
 }
+.anclaSubir{
+    text-decoration: none;
+    color: #4C000F;
+    border: none;
+    border-radius: 8px;
+    padding-top: 0.8%;
+    padding-bottom: 0.8%;
+    padding-left: 0.8%;
+    padding-right: 0.8%;
+    margin-top: 6%;
+    margin-left: 10%;
+    background-color: #DBAA21;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+.anclaSubir:hover{
+    color: #bf191e;
+}
+
 
 /* prueba google maps */
 
